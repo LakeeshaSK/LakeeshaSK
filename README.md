@@ -24,7 +24,7 @@ I’m a software engineer who enjoys building things that actually work.I like c
   <p align="left">
   <a href="http://www.linkedin.com/in/lakeesha-konara-200128sk/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="lakeesha.konara@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
-  <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="discordapp.com/users/881640025425580092" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 	<a href="https://instagram.com/progdagi"target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="discord" height="60" width="60" /></a>
   </p>
   </div>
