@@ -23,6 +23,7 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
   <a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+	<a href="https://instagram.com/progdagi"target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="discord" height="60" width="60" /></a>
   </p>
   </div>
 
@@ -69,7 +70,20 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 </td></tr></table>
 
 <br/>  
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,discord,figma,github,vscode,=14"/>
+  </a>
+</p>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <!---
